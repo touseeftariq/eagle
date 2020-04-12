@@ -1,0 +1,7 @@
+html,
+body,
+.app {
+  height: 100vh;
+  background: crimson;
+  padding: 1em;
+}
